@@ -1,5 +1,5 @@
 class HelloWorld
-	print "Hi World"
+	print "Hello World"
 end
 
 HelloWorld
