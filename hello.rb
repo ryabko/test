@@ -1,5 +1,5 @@
-class HelloWorld
+class HiWorld
 	print "Hello World"
 end
 
-HelloWorld
+HiWorld
