@@ -1,4 +1,5 @@
-123
-456
-789
-10
+class HelloWorld
+	print "Hello World"
+end
+
+HelloWorld
